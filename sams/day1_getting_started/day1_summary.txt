@@ -1,0 +1,14 @@
+11/20/18
+
+# runtime error vs compiled error
+
+-  compile error
+  : detected when the code is compiled
+  : compile cannot be completed
+
+-  runtime error
+  : happened when the executable is run
+  : can happen when divided by zero
+  : running out of memory
+  : dereferencing a null pointer
+  : trying to open a file that isn't there
