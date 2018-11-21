@@ -1,2 +1,2 @@
-// preprocessor directive that includes header iostream
+// preprocessor directive that includes header
 #include <iostream>
