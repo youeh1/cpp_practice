@@ -1,7 +1,7 @@
 // preprocessor directive
 #include <iostream>
 
-// avoid repeatedly use std::
+// avoid repeatedly using std::
 using namespace std;
 
 // declare a function first
@@ -22,7 +22,7 @@ void jaehong(){ // void function doesn't have a return value
   by using (float)
     (float) int / int = float
 
-  - at least one of the is float, then the result would be float
+  - at least one of them is float, then the result would be float
     int / float = float
     int / float = float
     float / float = float  */
