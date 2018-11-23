@@ -24,7 +24,7 @@ void jaehong(){ // void function doesn't have a return value
 
   - at least one of them is float, then the result would be float
     int / float = float
-    int / float = float
+    float / int = float
     float / float = float  */
 
   cout << "Input: 9 / 5 = " << " " << 9 / 5 << endl;
